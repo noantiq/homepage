@@ -9,6 +9,7 @@ const nextConfig = {
     unoptimized: true,
   },
   i18n,
+  basePath: /home
 };
 
 module.exports = nextConfig;
